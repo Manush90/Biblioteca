@@ -44,14 +44,14 @@
             border-radius: 3px;
         }
 
-        /* Bottone "Presta" rosso */
+
         input[name="presta_libro"],
         input[name="presta_dvd"] {
             background-color: #e74c3c;
             color: white;
         }
 
-        /* Bottone "Restituisci" verde */
+
         input[name="restituisci_libro"],
         input[name="restituisci_dvd"] {
             background-color: #27ae60;
